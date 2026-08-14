@@ -466,14 +466,14 @@ Durante essa etapa, foi orientado a IA para três entregas principais:
 2. Fluxo de Telas: foi solicitado à IA para gerar o fluxo conceitual de telas com base nas funcionalidades descritas no PRD, simulando a interação por conversa.
 3. Plano de MVP: solicitado um resumo das 5 funcionalidades principais, dos recursos necessários e um plano de validação inicial (como medir se o app cumpre seu propósito).
 
-### 3. Entregando o Desafio na DIO
+### 2. Entregando o Desafio na DIO
  
 No README do repositório, consta:
 
 -  **prompt final** (PRD);  
 - 🖼️ Prints das interações com a IA;
 
-### 1. Lovable – Criação do app 
+### Lovable – Criação do app 
 
 <a href="https://ibb.co/B2xS4SVy"><img src="https://i.ibb.co/jk21V1vy/Captura-de-tela-de-2026-08-14-15-37-01.png" alt="Captura-de-tela-de-2026-08-14-15-37-01" border="0"></a>
 <a href="https://ibb.co/1GtJCNnb"><img src="https://i.ibb.co/YBFT5SWb/Captura-de-tela-de-2026-08-14-15-40-28.png" alt="Captura-de-tela-de-2026-08-14-15-40-28" border="0"></a>
