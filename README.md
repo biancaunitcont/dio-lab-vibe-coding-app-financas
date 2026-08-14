@@ -488,7 +488,7 @@ Um resumo do que o  **App de Finanças Pessoais em casal** faz:
   
 🩷 "Sem planilhas, sem formulários. Vocês contam o que gastaram em uma frase e o app organiza tudo: categorias, quem pagou, o que é do casal e quanto ainda dá para gastar."
 
-Aqui está o link de acesso ao projeto: [https://tandem-trifle-tracker.lovable.app/]
+Aqui está o link de acesso ao protótipo funcional: [https://tandem-trifle-tracker.lovable.app/]
   
 - Uma breve **reflexão sobre o processo**:
 1. O que funcionou bem?
