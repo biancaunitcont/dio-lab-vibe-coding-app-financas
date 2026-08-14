@@ -32,7 +32,7 @@ Problema: Muitas pessoas não conseguem manter um controle financeiro porque os 
 Precisamos de uma solução que permita **controlar as finanças por meio de uma conversa simples**, com **agentes de IA** capazes de criar **planos de economia personalizados e automatizados**. Você deve utilizar as ideias de **Vibe Coding** e **MVP (Produto Mínimo Viável)** para desenvolver o **conceito de um aplicativo** que resolva o problema citado.
 
 > [!IMPORTANT]
-> Você **não precisa construir o código**! O foco está em **usar a IA como sua parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
+> A idéia não é **construir o código**! O foco está em **usar a IA como parceira criativa**, transformando boas ideias e prompts em conceitos funcionais que simulam um produto real.
 
 ## 🪄 Etapas do Desafio
 
@@ -459,7 +459,7 @@ A visão de longo prazo é transformar o aplicativo em um **assistente financeir
 Foi usadoo Copilot Web para revisar e melhorar o seu prompt antes de ir ao Lovable, lapidando o texto até que ele fique claro, direto e reflita exatamente a intenção.
 
 > [!TIP]
-> Pense no PRD/Prompt como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
+> O PRD/Prompt pode ser pensado como “o briefing que a IA precisa para entender sua vibe”. Portanto, quanto mais claro e intencional for o texto, mais próximas do ideal serão as respostas da IA.
 
 Durante essa etapa, foi orientado a IA para três entregas principais:
 1. Agente Financeiro: comportamento humanizado casual, tom de voz suave, de um consultor financeiro pessoal, alinhado ao público eu meu esposo com objetivo de compartilhar nossas finanças
@@ -468,7 +468,7 @@ Durante essa etapa, foi orientado a IA para três entregas principais:
 
 ### 3. Entregando o Desafio na DIO
  
-No README do seu repositório, consta:
+No README do repositório, consta:
 
 -  **prompt final** (PRD);  
 - Prints ou pequenos vídeos das interações com a IA;  
@@ -482,6 +482,7 @@ No README do seu repositório, consta:
 ## 💬 Conclusão
 
 Vibe Coding é sobre clareza, curiosidade e criatividade, não sobre perfeição técnica. O verdadeiro objetivo aqui é aprender a pensar junto com a IA, transformando ideias em conceitos reais e enxergando a tecnologia como uma extensão do seu raciocínio criativo. Cada interação é um experimento, quanto mais clara for sua intenção, mais surpreendente será o resultado.
+
 ## 👨‍💻 Autor
 
 Desenvolvido por **Bianca — biancaunitcont**.
