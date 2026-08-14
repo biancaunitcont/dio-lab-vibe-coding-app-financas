@@ -471,12 +471,34 @@ Durante essa etapa, foi orientado a IA para três entregas principais:
 No README do repositório, consta:
 
 -  **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o  **App de Finanças Pessoais em casal** faz;  
+- 🖼️ Prints das interações com a IA;
+
+### 1. Lovable – Criação do app 
+
+<a href="https://ibb.co/B2xS4SVy"><img src="https://i.ibb.co/jk21V1vy/Captura-de-tela-de-2026-08-14-15-37-01.png" alt="Captura-de-tela-de-2026-08-14-15-37-01" border="0"></a>
+<a href="https://ibb.co/1GtJCNnb"><img src="https://i.ibb.co/YBFT5SWb/Captura-de-tela-de-2026-08-14-15-40-28.png" alt="Captura-de-tela-de-2026-08-14-15-40-28" border="0"></a>
+<a href="https://ibb.co/m5hRhzh0"><img src="https://i.ibb.co/HTGKGgGC/Captura-de-tela-de-2026-08-14-15-40-58.png" alt="Captura-de-tela-de-2026-08-14-15-40-58" border="0"></a>
+<a href="https://ibb.co/ccF3PF2q"><img src="https://i.ibb.co/99TgJTyP/Captura-de-tela-de-2026-08-14-15-41-46.png" alt="Captura-de-tela-de-2026-08-14-15-41-46" border="0"></a>
+<a href="https://ibb.co/dwVRK4Zm"><img src="https://i.ibb.co/bMCkd5tb/Captura-de-tela-de-2026-08-14-15-42-23.png" alt="Captura-de-tela-de-2026-08-14-15-42-23" border="0"></a>
+
+*Plataforma usada para transformar a ideia na criação do site.*
+
+Um resumo do que o  **App de Finanças Pessoais em casal** faz:
+
+  
+🩷 "Sem planilhas, sem formulários. Vocês contam o que gastaram em uma frase e o app organiza tudo: categorias, quem pagou, o que é do casal e quanto ainda dá para gastar."
+  
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
-  - O que aprendeu sobre conversar com IAs?
+1. O que funcionou bem?
+ A IA ajudou a transformar uma ideia inicial em uma proposta mais estruturada, organizando o problema, o público-alvo, as funcionalidades e as principais telas do aplicativo. A conversa também facilitou a identificação do diferencial do projeto: um aplicativo voltado especificamente para finanças de casal, utilizando uma experiência de conversa em vez de formulários e planilhas.
+---
+
+2. O que não funcionou como esperado?
+ Algumas sugestões iniciais ficaram muito genéricas e voltadas para organização financeira individual. Foi necessário explicar melhor que o foco seria a gestão financeira compartilhada do casal, incluindo divisão de despesas, contribuições de cada pessoa e metas conjuntas. Isso mostrou que uma ideia precisa ser bem contextualizada para que a IA consiga entregar respostas mais alinhadas ao objetivo.
+---
+
+3. O que aprendi sobre conversar com IAs?
+ Aprendi que quanto mais claro e específico for o contexto fornecido, melhores são os resultados. A IA funciona melhor como uma parceira de construção: é possível apresentar uma ideia inicial, analisar as sugestões, corrigir o que não faz sentido e continuar refinando o projeto. Também percebi que é importante não aceitar a primeira resposta automaticamente, mas questionar, corrigir e orientar a IA para chegar a uma solução mais adequada.
 
 
 ## 💬 Conclusão
