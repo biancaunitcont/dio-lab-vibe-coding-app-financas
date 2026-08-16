@@ -480,6 +480,11 @@ No README do repositório, consta:
 <a href="https://ibb.co/m5hRhzh0"><img src="https://i.ibb.co/HTGKGgGC/Captura-de-tela-de-2026-08-14-15-40-58.png" alt="Captura-de-tela-de-2026-08-14-15-40-58" border="0"></a>
 <a href="https://ibb.co/ccF3PF2q"><img src="https://i.ibb.co/99TgJTyP/Captura-de-tela-de-2026-08-14-15-41-46.png" alt="Captura-de-tela-de-2026-08-14-15-41-46" border="0"></a>
 <a href="https://ibb.co/dwVRK4Zm"><img src="https://i.ibb.co/bMCkd5tb/Captura-de-tela-de-2026-08-14-15-42-23.png" alt="Captura-de-tela-de-2026-08-14-15-42-23" border="0"></a>
+<a href="https://ibb.co/PG9bmHrZ"><img src="https://i.ibb.co/5hnzMH1W/Captura-de-tela-de-2026-08-16-12-08-01.png" alt="Captura-de-tela-de-2026-08-16-12-08-01" border="0"></a>
+<a href="https://ibb.co/hxhv0GWq"><img src="https://i.ibb.co/GfBjmZ2h/Captura-de-tela-de-2026-08-16-12-07-05.png" alt="Captura de tela de 2026 08 16 12 07 05" border="0"></a>
+<a href="https://ibb.co/jvKPdw5P"><img src="https://i.ibb.co/C5d3q9t3/Captura-de-tela-de-2026-08-16-12-06-52.png" alt="Captura-de-tela-de-2026-08-16-12-06-52" border="0"></a>
+<a href="https://ibb.co/HprD6XCm"><img src="https://i.ibb.co/Pz5ZKtMB/Captura-de-tela-de-2026-08-16-12-06-37.png" alt="Captura-de-tela-de-2026-08-16-12-06-37" border="0"></a>
+<a href="https://ibb.co/2rhBYVL"><img src="https://i.ibb.co/Cy8FsCX/Captura-de-tela-de-2026-08-16-12-06-12.png" alt="Captura-de-tela-de-2026-08-16-12-06-12" border="0"></a>
 
 *Plataforma usada para transformar a ideia na criação do site.*
 
