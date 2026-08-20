@@ -5,7 +5,7 @@
 Laboratório educacional sobre criação de conteúdo multimodal com inteligência artificial generativa, explorando texto, imagem, áudio e vídeo.
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-AssistentedeVendas-8A2BE2?style=for-the-badge)
-![Antigravity](https://img.shields.io/badge/Antrigravity-DIOAgent-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-DIOAgent-10A37F?style=for-the-badge\&logo=openai\&logoColor=white)
 
 </div>
 
